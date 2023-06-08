@@ -11,6 +11,7 @@ print(l1)
 l1.append(['hari', 18, 78])
 print(l1)
 
+l1 = [1,2,3,4]
 # nested list
 l1 = []
 # l1 = list[]
