@@ -1,7 +1,7 @@
 # tuples
 tup = (["avaishek", "ram"], "thor", "avengers", 1, 33)
 # tup[1] = "jaari" # tuples are immutable
-intermediate = tup[0][0].replace("a","b")
+intermediate = tup[0][0].replace("a", "b")
 tup[0][0] = intermediate
 print(tup)
 
@@ -11,7 +11,6 @@ print(l1)
 l1.append(['hari', 18, 78])
 print(l1)
 
-l1 = [1,2,3,4]
 # nested list
 l1 = []
 # l1 = list[]
