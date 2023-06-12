@@ -31,7 +31,7 @@ try:
     f = open("test.txt", 'r')
     # data = f.read()  # reads as string
     # data = f.readline()  # reads single line
-    data = f.readlines()  # reads as list and supports indexing
+    data = f.readlines()  # reads as list and supports indexing and other lists functions
     print(data)
     print(data[1])
     # contents
